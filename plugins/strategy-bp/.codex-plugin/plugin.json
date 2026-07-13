@@ -1,0 +1,27 @@
+{
+  "name": "strategy-bp",
+  "version": "1.0.0",
+  "description": "Decision-first strategic research for product direction, market evidence, falsifiable hypotheses, and action thresholds.",
+  "author": {
+    "name": "Strategy BP"
+  },
+  "homepage": "https://github.com/mannyjoopson-cmyk/strategy-bp",
+  "repository": "https://github.com/mannyjoopson-cmyk/strategy-bp",
+  "license": "MIT",
+  "keywords": [
+    "strategy",
+    "research",
+    "market-analysis",
+    "product-decision"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Strategy BP",
+    "shortDescription": "Evidence-based strategic research for product decisions.",
+    "longDescription": "Strategy BP turns a product direction into decision questions, falsifiable hypotheses, evidence standards, and explicit action thresholds without making unapproved product decisions.",
+    "developerName": "Strategy BP",
+    "category": "Productivity",
+    "capabilities": [],
+    "defaultPrompt": "Use $strategy-bp to evaluate a product direction with traceable evidence and explicit action thresholds."
+  }
+}
