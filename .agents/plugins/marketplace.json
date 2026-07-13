@@ -1,0 +1,20 @@
+{
+  "name": "strategy-bp",
+  "interface": {
+    "displayName": "Strategy BP"
+  },
+  "plugins": [
+    {
+      "name": "strategy-bp",
+      "source": {
+        "source": "local",
+        "path": "./plugins/strategy-bp"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}
